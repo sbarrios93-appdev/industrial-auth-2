@@ -30,6 +30,8 @@
 
 /public/packs
 /public/packs-test
+vendor/bundle/*
+!vendor/bundle/.keep
 /node_modules
 /yarn-error.log
 yarn-debug.log*
